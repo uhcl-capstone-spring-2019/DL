@@ -5,3 +5,6 @@ C:\Users\adity\source\repos\harness\harness\obj\Debug\harness.csprojAssemblyRefe
 C:\Users\adity\source\repos\harness\harness\obj\Debug\harness.csproj.CoreCompileInputs.cache
 C:\Users\adity\source\repos\harness\harness\obj\Debug\harness.exe
 C:\Users\adity\source\repos\harness\harness\obj\Debug\harness.pdb
+C:\Users\adity\Source\Repos\DL\harness\bin\Debug\harness.exe.config
+C:\Users\adity\Source\Repos\DL\harness\obj\Debug\harness.exe
+C:\Users\adity\Source\Repos\DL\harness\obj\Debug\harness.pdb

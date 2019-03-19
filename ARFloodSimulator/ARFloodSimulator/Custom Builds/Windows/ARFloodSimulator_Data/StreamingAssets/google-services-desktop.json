@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "108653049257",
+    "firebase_url": "https://arfloodsimulator.firebaseio.com",
+    "project_id": "arfloodsimulator",
+    "storage_bucket": "arfloodsimulator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108653049257:android:a3caac2b5d4309b1",
+        "android_client_info": {
+          "package_name": "com.ar.flood.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108653049257-f2m0csqt0iiu8lddo7c4t837saronrq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6PE1qKSm5CXkq2Rnz_wvUvI1JkUwP0zg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
